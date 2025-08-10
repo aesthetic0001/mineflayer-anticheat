@@ -1,5 +1,7 @@
 # Mineflayer
 
+# Deprecated. Please use [my other mineflayer fork](https://github.com/aesthetic0001/mineflayer) instead
+
 [![NPM version](https://badge.fury.io/js/mineflayer.svg)](https://www.npmjs.com/package/mineflayer)
 [![Build Status](https://github.com/PrismarineJS/mineflayer/workflows/CI/badge.svg)](https://github.com/PrismarineJS/mineflayer/actions?query=workflow%3A%22CI%22)
 [![Try it on gitpod](https://img.shields.io/badge/try-on%20gitpod-brightgreen.svg)](https://gitpod.io/#https://github.com/PrismarineJS/mineflayer)
